@@ -1,0 +1,7 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un software de control de versiones diseñado por Linus Torvalds,se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT
+
+b. Microsoft acquired its larger rival GitHub in 2018 for $7.5 billion, which at the time was a high-priced deal in subscription software. GitLab CEO Sid Sijbrandij says his company has more advantages now that GitHub is owned by the world's largest software developer.
+
+c. Hay otra forma que no sea la terminal para trabajar con Github?
+ Otra manera de utilizar git es por medio de una interfaz ya sea gitGUI, SourceTree, entre otros.
