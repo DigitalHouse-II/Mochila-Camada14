@@ -1,0 +1,8 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+b. ¿A quién pertenece actualmente Github y por qué?
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Respuestas:
+a. Lo invento Linux Torbalt para facilitar el trabajo de varias personas en un solo lugar y no depender de tanta documentacion fisica.
+b. Le pertenece a Microsoft, El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+c. si, De forma manual.
