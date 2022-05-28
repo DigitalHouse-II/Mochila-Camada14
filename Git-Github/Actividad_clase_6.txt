@@ -1,0 +1,16 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+Por lo que recuerdo, Git surge debido a que el proyecto Linux Kernel usaba el sistema de versionado BitKeeper (en su entonces, gratis), 
+y cuando sacaron el permiso gratis de la aplicación, el equipo de Linux Kernel se puso en desarrollo de un sistema de versionado que tuviera servicio gratuito.
+------------------------------------------------------------------
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+Github fue comprado por microsoft con la intención de que se utilice también de manera corporativa, y por otro lado, promocionar otras herramientas de microsoft.
+
+------------------------------------------------------------------
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Tengo entendido que se pueden subir archivos ya sea arrastrando los archivos a Github o con un botón de subir archivos. 
+Creo también que se pueden modificar estos archivos desde una interfaz más visual dentro de la página de github. Sin embargo, no sabría si entra en la categoría "trabajar con github".
+Desconozco si realizarlo de esta manera también genera commits y demás, pero asumo que sí.
