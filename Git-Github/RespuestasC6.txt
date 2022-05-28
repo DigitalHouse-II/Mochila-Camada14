@@ -1,0 +1,6 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+El sistema Git fue inventado por el creador de Linux, para poder trabajar en proyectos que tienen una gran cantidad de código fuente
+b. ¿A quién pertenece actualmente Github y por qué?
+Github actualmente pertenece a Microsoft , y lo hizo para acercarse a la comunidad de código abierto y competir con otras plataformas en la nube
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, con interfaces gráficas
