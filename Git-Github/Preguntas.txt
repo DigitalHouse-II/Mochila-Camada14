@@ -1,0 +1,8 @@
+a. Quien inventó el sistema de control de version Git y por que?
+    Linus Torvalds, the creator of Linux, took the challenge into his own hands and disappeared over the weekend to emerge the following week with Git. Today Git is used for thousands of projects and has ushered in a new level of social coding among programmers.
+
+b. A quien pertenece actualmente Github y por que?
+    Microsoft acquired its larger rival GitHub in 2018 for $7.5 billion, which at the time was a high-priced deal in subscription software. GitLab CEO Sid Sijbrandij says his company has more advantages now that GitHub is owned by the world's largest software developer.
+
+c. Hay otra forma que no sea la terminal para trabajar con Github?
+    Github tiene una interfaz grafica que te permite utilizar todas sus caracteristicas sin usar la terminal.
