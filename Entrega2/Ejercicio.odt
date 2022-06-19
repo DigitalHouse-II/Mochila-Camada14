@@ -1,0 +1,32 @@
+1 - Que es un usuario root en linux? 
+
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema. Los usuarios normales no tienen este acceso por razones de seguridad.
+
+2 - Porque ubuntu no me deja establecer la contraseña durante la instalación? 
+
+Se supone que no debes añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo sudo para manejar eso. En su lugar, se añaden usuarios a la cuenta: admin cuenta. Todos esos usuarios pueden entonces ejecutar comandos o programas como root ejecutando sudo command. 
+
+3 - Cuales son los procesos tipicos de linux? 
+
+Un proceso en linux es una serie de instrucciones que vienen de un programa que esta en ejecución, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar y el tiempo máximo de ejecución del proceso.
+
+Cuando Linux se ejecuta, el kernel de Linux tiene la primera prioridad de ejecución, conocida como PID 1 (Process ID). En versiones anteriores de Linux, este proceso era conocido como init que esta basado en en la forma en la que sistemas antiguos de Unix arrancaban el sistema.
+
+Las versiones modernas de Linux utilizan systemd que intenta coordinar la manera en que los procesos son manejados. Como comentamos PID1 es el proceso padre, todos los demás procesos ejecutados a partir de este son procesos hijos.
+
+4 -Como identificarlos?
+
+Algunos procesos inician otros procesos, de esta forma se convierten en padres de estos. Para poder ver esta jerarquía podemos utilizar el comando ps que muestra en la última columna como la jerarquía de los procesos y subprocesos esta organizada por tabuladores. 
+
+ps -eH | less
+
+El parámetro -e muestra todos los procesos ejecutados en el sistema por parte de todos los usuarios. Mientras que el parámetro -H muestra la jerarquía de los procesos (hierarchy).
+
+¿Cómo listar los procesos de Linux en tiempo real? Si se desea obtener información en tiempo real, se puede utilizar el comando top que hace la misma función que el comando ps pero mantiene el listado de procesos monitoreando en pantalla.
+
+5 - Como establecer una contrasena para el usuario root?
+
+Para habilitar la cuenta de root, abra un terminal y ejecute lo siguiente para establecer una contraseña de root:
+
+sudo passwd root
+
