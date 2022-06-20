@@ -1,0 +1,29 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Para responder esta pregunta primero es importante saber que un lenguaje de programación se compila o se interpreta (o mixto VM). Cuando un lenguaje es interpretado no se genera un ejecutable y por lo tanto si existe un intérprete en la plataforma (sistema operativo + arquitectura de CPU + alguna otra consideración) va poder ejecutarse en la misma sin importar que sea sistema operativo diferentes. Generalmente suele existir intérpretes del mismo lenguaje para diferentes plataformas lo que lo hace un lenguaje más portable porque no dependen de su plataforma destino. 
+
+El problema viene en los lenguajes compilados ya que estos generan un ejecutable que va dirigido a una plataforma concreta, es decir, depende de la arquitectura del CPU y del sistema operativo en el cual se compile, siendo muy complicado o imposible portarlo a otra.
+
+
+¿Qué tipo de máquina virtual soporta virtualBox?
+Existen dos tipos de máquinas virtuales por un lado tenemos las de proceso, que separan un solo proceso, y por otro lado las de sistema, que ofrecen una separación completa del sistema operativo y las aplicaciones de la computadora física. Oracle VM VirtualBox corresponde a una VM de tipo proceso.
+Soporta una variedad amplia de sistemas operativos como GNU/Linux, Mac OS X, OS/2 Warp, Genode, Windows y Solaris/OpenSolaris, entre otros
+
+
+¿Qué función cumple el hypervisor en la virtualización?
+La virtualización es posible gracias a un gestor de máquinas virtuales o hipervisor. El hipervisor crea versiones virtuales de ordenadores y sistemas operativos y los consolida en un gran servidor físico, de modo que todos los recursos de hardware pueden utilizarse de forma más eficiente.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Las máquinas virtuales son particiones separadas del sistema, es decir son independientes entre sí, por lo tanto si una se rompe esto no afectará a las demás.
+
+
+
+Bibliografía:
+
+https://kscius.wordpress.com/2015/09/06/lectura-recomendada-compiladores-interpretes-y-maquinas-virtuales/
+
+https://cio.com.mx/que-son-las-maquinas-virtuales-ventajas-y-desventajas/#:~:text=En%20general%2C%20hay%20dos%20tipos,aplicaciones%20de%20la%20computadora%20f%C3%ADsica.
+
+https://es.wikipedia.org/wiki/VirtualBox#:~:text=Entre%20los%20sistemas%20operativos%20soportados,DOS%2C%20Genode%20y%20muchos%20otros.
+
+https://www.cursosaula21.com/que-es-la-virtualizacion/
