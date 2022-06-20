@@ -1,0 +1,9 @@
+ENTREGA 2 MOCHILA CAMADA 14
+CUESTIONARIO
+
+1. Cualquier leguaje de programacion puede usarse en un sistema siempre y cuando haya un interprete o compilador. Pero el programa que estemos desarrollando (su ejecutable) no sera compatible con todos los sistemas ya que al compilar el mismo se realiza en lenguaje ensamblador y el mismo depende de la arquitectura del procesador y la interpretacion que le de el sistema operativo
+
+2. VirtualBox no es una maquina virtual, es un software para realizar la creacion y gestion de maquinas virtuales.
+
+3. No, ya que cada maquina virtual es independiente de las otras. Es como si tuviesesmos fisicamente diferentes computadores.
+
