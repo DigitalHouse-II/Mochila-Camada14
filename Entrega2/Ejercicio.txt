@@ -1,0 +1,13 @@
+Ejercicio VM
+
+- ¿Que es un usuario root en Linux?
+Es una cuenta de usuario para propositos administrativos, y por lo general, tiene los derechos de acceso más altos en el sistema
+- ¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+Porque no se ha asignado un usuario root.
+- ¿Cuáles son los procesos típicos de Linux?
+ps - Devuelve el estado de los procesos.
+pstree - Muestra los procesos en forma de árbol.
+kill - Sirve para terminar procesos y enviar señales a los procesos(las señales por default es kill PID, siendo PID el número de ID del proceso)
+nice - Permite cambiar la propiedad de un proceso
+- ¿Cómo identificarlos?
+Con el comando PS
