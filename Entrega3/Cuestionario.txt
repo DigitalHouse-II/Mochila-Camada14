@@ -1,3 +1,5 @@
+Esto fue creado desde una maquina virtual
+
 Cuestionario
 
 1-Se puede utilizar en cualquier SO siempre y cuando este tenga instalado
