@@ -1,0 +1,12 @@
+ACtividad 15- Ubuntu
+Porque un lenguaje de programacion puede utilizarse en algunos sistemas operativos y en otros no?
+Es segun el compilador que se use, no todos usan el mismo compilador
+
+Que tipo de maquina virtual soporta Virtual Box?
+Maquina virtual de sistema
+
+Que funcion cumple el hipervisor en la virtualizacion?
+es una capa de software para realizar la virtualizacion de hardware que permite utilizar diferentes SO en una misma computadora
+
+Si tengo mas de un MV instalada y una se rompe, esto afecta a las otras?
+No, no las afecta, porque est{an aisladas y son independientes entre si.
