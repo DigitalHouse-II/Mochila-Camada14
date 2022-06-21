@@ -1,0 +1,28 @@
+1-  ¿Qué es un usuario root en Linux?
+Respuesta 1:
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema.
+Los usuarios normales no tienen este acceso por razones de seguridad. Sin embargo, 
+Kubuntu no incluye el usuario root.
+
+Cuando hablamos de Root nos referimos a la cuenta superusuario en Linux, es decir
+aquella que posee todos los privilegios y permisos para realizar acciones sobre el 
+sistema.
+
+2- ¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+Respuesta 2:
+Por defecto, la raíz no tiene una contraseña y la cuenta de la raíz está bloqueada hasta
+que le de una contraseña. CUando instalo Ubuntu, se le pidió que creara un usuario con 
+una contraseña. SI se le dió a este usuario la contraseña solicitada, esta es la contraseña
+que se necesita y luego se puede configurar las credenciales del usuario Root.
+
+3- ¿Cuáles son los procesos típicos de Linux?
+Respuesta 3:
+EL proceso típico en Linux es el flujo de control durante el arranque y es desde el BIOS,
+al gestor de arranque y al núcleo (Kernel).
+
+4- ¿Cómo identificarlos?
+Respuesta 4:
+Los procesos ejecutan programas en su host Linux que realizan operaciones como 
+escribir en un disco, escribir en un archivo o ejecutar un servidor web, por ejemplo.
+El proceso tiene un propietario y se identifica mediante un ID de proceso (también
+llamado PID).
