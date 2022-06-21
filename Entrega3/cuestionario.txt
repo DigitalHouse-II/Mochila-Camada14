@@ -1,0 +1,11 @@
+ENTREGA 2 MOCHILA CAMADA 14
+CUESTIONARIO
+
+1. Cualquier leguaje de programacion puede usarse en un sistema siempre y cuando haya un interprete o compilador.Pero el programa que estemos desarrollando (su ejecutable) no sera compatible con todos los sistemas ya que al compilar el mismo se realiza en lenguaje ensamblador y el mismo depende de la arquitectura del procesador y la interpretacion que le de el sistema operativo
+
+2. Entre los sistemas operativos soportados estan: GNU/Linux, Mac OS X, Os/2 Warp, Genode, Windows y Solaris/OpenSolaris
+
+3. Es un proceso que crea y ejecuta maquinas virtuales. Permite que el ordenador host preste soporte a varias maquinas virtuales invitaas medial el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+4. No, ya que cada maquina virtual es independiente de las otras. Es como si tuviesesmos fisicamente diferentes computadores.
+
