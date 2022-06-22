@@ -1,0 +1,13 @@
+Preguntas:
+
+¿Que es un usuario root en Linux?
+R: Los usuarios root en linux son aquellos que tienen acceso a partes mas "importantes" del SO.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+R: Debido a que si por error meten mano sin saber que hacen podrian arruinar el SO (entre otras cosas)
+
+¿Cuáles son los procesos típicos de Linux? y ¿Cómo identificarlos?
+R: 
+Un proceso en linux es una serie de instrucciones que vienen de un programa que esta en ejecución, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar y el tiempo máximo de ejecución del proceso.
+
+Algunos procesos inician otros procesos, de esta forma se convierten en padres de estos. Para poder ver esta jerarquía podemos utilizar el comando "ps" que muestra en la última columna como la jerarquía de los procesos y subprocesos esta organizada por tabuladores. Si se desea obtener información en tiempo real, se puede utilizar el comando "top" que hace la misma función que el comando ps pero mantiene el listado de procesos monitoreando en pantalla.
