@@ -1,0 +1,10 @@
+1 - ¿Por que un lenguaje de programacion puede utilizarse en algunos sistemas operativos y en otros no ?
+R1 Cualquier lenguaje de programacion puede usarse enun sistema siempre y cuando haya un interprete o compliador )segun correspoda al legnuaje en cuestion) si es que desea programar en esa maquina con ese sistema operativo. Obvio si no hay tal interprete o compilador no podra usar ESE, yu leguaje favorito, en ese sistema.
+
+2 - ¿Que tipo de maquina virtual es virtualBox?
+R2 Oracle VM VirtualBox es un software de virtualizacion para arquitecturas x86/amd64. Actualmente es desarrollado por Oracle Corporation como parte de su familia de productos de virtualizacion.
+
+3 -Si tengo mas de una maquina virtual instalada y una se rompe. ¿esto afecta a las demas? ¿Por que?
+R3 No, por que son entornos de seguridad.
+
+Alfredo Albornoz 
