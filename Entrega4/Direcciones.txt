@@ -1,0 +1,11 @@
+﻿Dirección IP pública: 167.58.118.62
+Dirección IP privada y Máscara de subred: 192.168.1.6 y 255.255.255.0
+Dirección MAC: 10-FE-ED-20-61-F6
+
+
+¿La IP pública y privada de qué clase son?
+Ambas son de clase C.
+
+
+¿Qué información puedo obtener de la dirección MAC?  
+Se puede buscar al fabricante y el tipo de dispositivo de red que se esté utilizando.
