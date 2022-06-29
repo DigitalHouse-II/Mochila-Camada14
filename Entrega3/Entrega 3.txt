@@ -1,0 +1,17 @@
+1-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+2-¿Qué tipo de máquina virtual soporta virtualBox?. 
+
+3-¿Qué función cumple el hypervisor en la virtualización?
+
+4-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+1)El lenguaje de programacion necesita un compilador, para que traduzca el codigo y prepare un archivo ejecutable 
+segun el sistema opertativo donde se vaya a ejecutar.
+
+2)Windows ,Linux, Macos, Solaris , DOS, y OpenBSD.
+
+3)Es una capa de software que sirve para realizar una virtualización de hardware que permite utilizar, al mismo tiempo, 
+diferentes sistemas operativos en una misma computadora.​​​
+
+4)No, no debería afectar a las demás máquinas virtuales.
