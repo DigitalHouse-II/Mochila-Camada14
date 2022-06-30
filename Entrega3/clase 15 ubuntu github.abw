@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xid-max="225" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Jun 22 00:45:06 2022
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">usuario-intro</m>
+<m key="dc.date">Wed Jun 22 00:45:06 2022
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="36" last-saved="1655869506" uid="9f93316a-f1dd-11ec-84ca-b297c74142f3">
+<version id="1" started="1655869506" uid="b4bd8018-f1dd-11ec-84ca-b297c74142f3" auto="0" top-xid="225"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="224" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="225" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git clone http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git</c></p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"><c>Clonar en «Mochila-Camada14»...</c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c>fatal: unable to access 'http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git/': Could not resolve host: https</c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ ping google.com</c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c>PING google.com (142.251.133.78) 56(84) bytes of data.</c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c>64 bytes from eze10s03-in-f14.1e100.net (142.251.133.78): icmp_seq=1 ttl=115 time=21.3 ms</c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c>64 bytes from eze10s03-in-f14.1e100.net (142.251.133.78): icmp_seq=2 ttl=115 time=16.3 ms</c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c>64 bytes from eze10s03-in-f14.1e100.net (142.251.133.78): icmp_seq=3 ttl=115 time=17.3 ms</c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c>64 bytes from eze10s03-in-f14.1e100.net (142.251.133.78): icmp_seq=4 ttl=115 time=19.1 ms</c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c>64 bytes from eze10s03-in-f14.1e100.net (142.251.133.78): icmp_seq=5 ttl=115 time=16.4 ms</c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"><c>64 bytes from eze10s03-in-f14.1e100.net (142.251.133.78): icmp_seq=6 ttl=115 time=14.9 ms</c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c>^C</c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c>--- google.com ping statistics ---</c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c>6 packets transmitted, 6 received, 0% packet loss, time 5011ms</c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c>rtt min/avg/max/mdev = 14.911/17.593/21.347/2.099 ms</c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ </c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ </c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git clone http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git</c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c>Clonar en «Mochila-Camada14»...</c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c>fatal: unable to access 'http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git/': Could not resolve host: https</c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git clone http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git</c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c>Clonar en «Mochila-Camada14»...</c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c>fatal: unable to access 'http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git/': Could not resolve host: https</c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git clone https://github.com/DigitalHouse-II/Mochila-Camada14.git</c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c>Clonar en «Mochila-Camada14»...</c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c>remote: Enumerating objects: 542, done.</c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c>remote: Counting objects: 100% (210/210), done.</c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr"><c>remote: Compressing objects: 100% (156/156), done.</c></p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c>remote: Total 542 (delta 54), reused 201 (delta 48), pack-reused 332</c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr"><c>Receiving objects: 100% (542/542), 43.66 MiB | 9.04 MiB/s, done.</c></p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr"><c>Resolving deltas: 100% (174/174), done.</c></p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr"><c>Comprobando la conectividad… hecho.</c></p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git status</c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr"><c>fatal: Not a git repository (or any of the parent directories): .git</c></p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ ls -a</c></p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr"><c>.              .config     Imágenes          .profile                   .xscreensaver</c></p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c>..             Descargas   .local            Público                    .xsession-errors</c></p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr"><c>.bash_history  .dmrc       Mochila-Camada14  .sudo_as_admin_successful  .xsession-errors.old</c></p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr"><c>.bash_logout   Documentos  .mozilla          .thumbnails</c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr"><c>.bashrc        Escritorio  Música            Vídeos</c></p>
+<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr"><c>.cache         .gnupg      Plantillas        .Xauthority</c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git status</c></p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr"><c>fatal: Not a git repository (or any of the parent directories): .git</c></p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ git status -s</c></p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr"><c>fatal: Not a git repository (or any of the parent directories): .git</c></p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ cd </c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr"><c>.cache/           Documentos/       Imágenes/         .mozilla/         Público/</c></p>
+<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr"><c>.config/          Escritorio/       .local/           Música/           .thumbnails/</c></p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr"><c>Descargas/        .gnupg/           Mochila-Camada14/ Plantillas/       Vídeos/</c></p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ cd </c></p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr"><c>.cache/           Documentos/       Imágenes/         .mozilla/         Público/</c></p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr"><c>.config/          Escritorio/       .local/           Música/           .thumbnails/</c></p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr"><c>Descargas/        .gnupg/           Mochila-Camada14/ Plantillas/       Vídeos/</c></p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ ls</c></p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr"><c>Descargas   Escritorio  Mochila-Camada14  Plantillas  Vídeos</c></p>
+<p style="Normal" xid="55" props="text-align:left; dom-dir:ltr"><c>Documentos  Imágenes    Música            Público</c></p>
+<p style="Normal" xid="56" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ cd M</c></p>
+<p style="Normal" xid="57" props="text-align:left; dom-dir:ltr"><c>Mochila-Camada14/ Música/           </c></p>
+<p style="Normal" xid="58" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ cd M</c></p>
+<p style="Normal" xid="59" props="text-align:left; dom-dir:ltr"><c>Mochila-Camada14/ Música/           </c></p>
+<p style="Normal" xid="60" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ cd M</c></p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr"><c>Mochila-Camada14/ Música/           </c></p>
+<p style="Normal" xid="62" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~$ cd Mochila-Camada14</c></p>
+<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ ls</c></p>
+<p style="Normal" xid="64" props="text-align:left; dom-dir:ltr"><c>Entrega1  Entrega2  Entrega3  Entrega4  Entrega5  Git-Github</c></p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ ls -a</c></p>
+<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr"><c>.  ..  Entrega1  Entrega2  Entrega3  Entrega4  Entrega5  .git  Git-Github</c></p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ cd entrega3</c></p>
+<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr"><c>bash: cd: entrega3: No existe el archivo o el directorio</c></p>
+<p style="Normal" xid="69" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ cd Entrega3</c></p>
+<p style="Normal" xid="70" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14/Entrega3$ ls</c></p>
+<p style="Normal" xid="71" props="text-align:left; dom-dir:ltr"><c>Actividad ubuntu github clase 15.abw  Readme.md</c></p>
+<p style="Normal" xid="72" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14/Entrega3$ cd ..</c></p>
+<p style="Normal" xid="73" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ cd Entrega3</c></p>
+<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14/Entrega3$ cd ..</c></p>
+<p style="Normal" xid="75" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git init</c></p>
+<p style="Normal" xid="76" props="text-align:left; dom-dir:ltr"><c>Reinitialized existing Git repository in /home/usuario/Mochila-Camada14/.git/</c></p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git commit -m "ubuntu github clase 15"</c></p>
+<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr"><c>*** Please tell me who you are.</c></p>
+<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr"><c>Run</c></p>
+<p style="Normal" xid="82" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr"><c>  git config --global user.email "you@example.com"</c></p>
+<p style="Normal" xid="84" props="text-align:left; dom-dir:ltr"><c>  git config --global user.name "Your Name"</c></p>
+<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="86" props="text-align:left; dom-dir:ltr"><c>to set your account's default identity.</c></p>
+<p style="Normal" xid="87" props="text-align:left; dom-dir:ltr"><c>Omit --global to set the identity only in this repository.</c></p>
+<p style="Normal" xid="88" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="89" props="text-align:left; dom-dir:ltr"><c>fatal: unable to auto-detect email address (got 'usuario@ubuntu-intro.(none)')</c></p>
+<p style="Normal" xid="90" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git config --global username "AdrianUY"</c></p>
+<p style="Normal" xid="91" props="text-align:left; dom-dir:ltr"><c>error: key does not contain a section: username</c></p>
+<p style="Normal" xid="92" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git config --global user.name "AdrianUY"</c></p>
+<p style="Normal" xid="93" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git config --global user.email "abarcare@gmail.com"</c></p>
+<p style="Normal" xid="94" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git commit -m "ubuntu github clase 15"</c></p>
+<p style="Normal" xid="95" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="96" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="97" props="text-align:left; dom-dir:ltr"><c>Archivos sin seguimiento:</c></p>
+<p style="Normal" xid="98" props="text-align:left; dom-dir:ltr"><c>	Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="99" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="100" props="text-align:left; dom-dir:ltr"><c>no se ha agregado nada al commit pero existen archivos sin seguimiento</c></p>
+<p style="Normal" xid="101" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git add -A</c></p>
+<p style="Normal" xid="102" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin master</c></p>
+<p style="Normal" xid="103" props="text-align:left; dom-dir:ltr"><c>error: src refspec master does not match any.</c></p>
+<p style="Normal" xid="104" props="text-align:left; dom-dir:ltr"><c>error: failed to push some refs to 'https://github.com/DigitalHouse-II/Mochila-Camada14.git'</c></p>
+<p style="Normal" xid="105" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git add .</c></p>
+<p style="Normal" xid="106" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin master</c></p>
+<p style="Normal" xid="107" props="text-align:left; dom-dir:ltr"><c>error: src refspec master does not match any.</c></p>
+<p style="Normal" xid="108" props="text-align:left; dom-dir:ltr"><c>error: failed to push some refs to 'https://github.com/DigitalHouse-II/Mochila-Camada14.git'</c></p>
+<p style="Normal" xid="109" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git status</c></p>
+<p style="Normal" xid="110" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="111" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="112" props="text-align:left; dom-dir:ltr"><c>Cambios para hacer commit:</c></p>
+<p style="Normal" xid="113" props="text-align:left; dom-dir:ltr"><c>  (use «git reset HEAD &lt;archivo&gt;...» para sacar del stage)</c></p>
+<p style="Normal" xid="114" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="115" props="text-align:left; dom-dir:ltr"><c>	nuevo archivo: Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="116" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="117" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git reset HEAD Entrega3/Actividad\ ubuntu\ github\ clase\ 15.abw</c></p>
+<p style="Normal" xid="118" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git status</c></p>
+<p style="Normal" xid="119" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="120" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="121" props="text-align:left; dom-dir:ltr"><c>Archivos sin seguimiento:</c></p>
+<p style="Normal" xid="122" props="text-align:left; dom-dir:ltr"><c>  (use «git add &lt;archivo&gt;...» para incluir en lo que se ha de confirmar)</c></p>
+<p style="Normal" xid="123" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="124" props="text-align:left; dom-dir:ltr"><c>	Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="125" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="126" props="text-align:left; dom-dir:ltr"><c>no se ha agregado nada al commit pero existen archivos sin seguimiento (use «git add» para darle seguimiento)</c></p>
+<p style="Normal" xid="127" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git add .</c></p>
+<p style="Normal" xid="128" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git status</c></p>
+<p style="Normal" xid="129" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="130" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="131" props="text-align:left; dom-dir:ltr"><c>Cambios para hacer commit:</c></p>
+<p style="Normal" xid="132" props="text-align:left; dom-dir:ltr"><c>  (use «git reset HEAD &lt;archivo&gt;...» para sacar del stage)</c></p>
+<p style="Normal" xid="133" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="134" props="text-align:left; dom-dir:ltr"><c>	nuevo archivo: Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="135" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="136" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin master</c></p>
+<p style="Normal" xid="137" props="text-align:left; dom-dir:ltr"><c>error: src refspec master does not match any.</c></p>
+<p style="Normal" xid="138" props="text-align:left; dom-dir:ltr"><c>error: failed to push some refs to 'https://github.com/DigitalHouse-II/Mochila-Camada14.git'</c></p>
+<p style="Normal" xid="139" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git</c></p>
+<p style="Normal" xid="140" props="text-align:left; dom-dir:ltr"><c>warning: push.default is unset; its implicit value has changed in</c></p>
+<p style="Normal" xid="141" props="text-align:left; dom-dir:ltr"><c>Git 2.0 from 'matching' to 'simple'. To squelch this message</c></p>
+<p style="Normal" xid="142" props="text-align:left; dom-dir:ltr"><c>and maintain the traditional behavior, use:</c></p>
+<p style="Normal" xid="143" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="144" props="text-align:left; dom-dir:ltr"><c>  git config --global push.default matching</c></p>
+<p style="Normal" xid="145" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="146" props="text-align:left; dom-dir:ltr"><c>To squelch this message and adopt the new behavior now, use:</c></p>
+<p style="Normal" xid="147" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="148" props="text-align:left; dom-dir:ltr"><c>  git config --global push.default simple</c></p>
+<p style="Normal" xid="149" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="150" props="text-align:left; dom-dir:ltr"><c>When push.default is set to 'matching', git will push local branches</c></p>
+<p style="Normal" xid="151" props="text-align:left; dom-dir:ltr"><c>to the remote branches that already exist with the same name.</c></p>
+<p style="Normal" xid="152" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="153" props="text-align:left; dom-dir:ltr"><c>Since Git 2.0, Git defaults to the more conservative 'simple'</c></p>
+<p style="Normal" xid="154" props="text-align:left; dom-dir:ltr"><c>behavior, which only pushes the current branch to the corresponding</c></p>
+<p style="Normal" xid="155" props="text-align:left; dom-dir:ltr"><c>remote branch that 'git pull' uses to update the current branch.</c></p>
+<p style="Normal" xid="156" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="157" props="text-align:left; dom-dir:ltr"><c>See 'git help config' and search for 'push.default' for further information.</c></p>
+<p style="Normal" xid="158" props="text-align:left; dom-dir:ltr"><c>(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode</c></p>
+<p style="Normal" xid="159" props="text-align:left; dom-dir:ltr"><c>'current' instead of 'simple' if you sometimes use older versions of Git)</c></p>
+<p style="Normal" xid="160" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="161" props="text-align:left; dom-dir:ltr"><c>fatal: unable to access 'http://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@https://github.com/DigitalHouse-II/Mochila-Camada14.git/': Could not resolve host: https</c></p>
+<p style="Normal" xid="162" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git --global push.defaul</c></p>
+<p style="Normal" xid="163" props="text-align:left; dom-dir:ltr"><c>Unknown option: --global</c></p>
+<p style="Normal" xid="164" props="text-align:left; dom-dir:ltr"><c>usage: git [--version] [--help] [-C &lt;path&gt;] [-c name=value]</c></p>
+<p style="Normal" xid="165" props="text-align:left; dom-dir:ltr"><c>           [--exec-path[=&lt;path&gt;]] [--html-path] [--man-path] [--info-path]</c></p>
+<p style="Normal" xid="166" props="text-align:left; dom-dir:ltr"><c>           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]</c></p>
+<p style="Normal" xid="167" props="text-align:left; dom-dir:ltr"><c>           [--git-dir=&lt;path&gt;] [--work-tree=&lt;path&gt;] [--namespace=&lt;name&gt;]</c></p>
+<p style="Normal" xid="168" props="text-align:left; dom-dir:ltr"><c>           &lt;command&gt; [&lt;args&gt;]</c></p>
+<p style="Normal" xid="169" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin master</c></p>
+<p style="Normal" xid="170" props="text-align:left; dom-dir:ltr"><c>error: src refspec master does not match any.</c></p>
+<p style="Normal" xid="171" props="text-align:left; dom-dir:ltr"><c>error: failed to push some refs to 'https://github.com/DigitalHouse-II/Mochila-Camada14.git'</c></p>
+<p style="Normal" xid="172" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git status</c></p>
+<p style="Normal" xid="173" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="174" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="175" props="text-align:left; dom-dir:ltr"><c>Cambios para hacer commit:</c></p>
+<p style="Normal" xid="176" props="text-align:left; dom-dir:ltr"><c>  (use «git reset HEAD &lt;archivo&gt;...» para sacar del stage)</c></p>
+<p style="Normal" xid="177" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="178" props="text-align:left; dom-dir:ltr"><c>	nuevo archivo: Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="179" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="180" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin main</c></p>
+<p style="Normal" xid="181" props="text-align:left; dom-dir:ltr"><c>Username for 'https://github.com': AdrianUY</c></p>
+<p style="Normal" xid="182" props="text-align:left; dom-dir:ltr"><c>Password for 'https://AdrianUY@github.com': </c></p>
+<p style="Normal" xid="183" props="text-align:left; dom-dir:ltr"><c>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.</c></p>
+<p style="Normal" xid="184" props="text-align:left; dom-dir:ltr"><c>remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.</c></p>
+<p style="Normal" xid="185" props="text-align:left; dom-dir:ltr"><c>fatal: Authentication failed for 'https://github.com/DigitalHouse-II/Mochila-Camada14.git/'</c></p>
+<p style="Normal" xid="186" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin main</c></p>
+<p style="Normal" xid="187" props="text-align:left; dom-dir:ltr"><c>Username for 'https://github.com': AdrianUY</c></p>
+<p style="Normal" xid="188" props="text-align:left; dom-dir:ltr"><c>Password for 'https://AdrianUY@github.com': </c></p>
+<p style="Normal" xid="189" props="text-align:left; dom-dir:ltr"><c>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.</c></p>
+<p style="Normal" xid="190" props="text-align:left; dom-dir:ltr"><c>remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.</c></p>
+<p style="Normal" xid="191" props="text-align:left; dom-dir:ltr"><c>fatal: Authentication failed for 'https://github.com/DigitalHouse-II/Mochila-Camada14.git/'</c></p>
+<p style="Normal" xid="192" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin main</c></p>
+<p style="Normal" xid="193" props="text-align:left; dom-dir:ltr"><c>Username for 'https://github.com': AdrianUY</c></p>
+<p style="Normal" xid="194" props="text-align:left; dom-dir:ltr"><c>Password for 'https://AdrianUY@github.com': </c></p>
+<p style="Normal" xid="195" props="text-align:left; dom-dir:ltr"><c>Everything up-to-date</c></p>
+<p style="Normal" xid="196" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git status</c></p>
+<p style="Normal" xid="197" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="198" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="199" props="text-align:left; dom-dir:ltr"><c>Cambios para hacer commit:</c></p>
+<p style="Normal" xid="200" props="text-align:left; dom-dir:ltr"><c>  (use «git reset HEAD &lt;archivo&gt;...» para sacar del stage)</c></p>
+<p style="Normal" xid="201" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="202" props="text-align:left; dom-dir:ltr"><c>	nuevo archivo: Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="203" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="204" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git commit -m "ubuntu github clase 15"</c></p>
+<p style="Normal" xid="205" props="text-align:left; dom-dir:ltr"><c>[main c86709b] ubuntu github clase 15</c></p>
+<p style="Normal" xid="206" props="text-align:left; dom-dir:ltr"><c> 1 file changed, 55 insertions(+)</c></p>
+<p style="Normal" xid="207" props="text-align:left; dom-dir:ltr"><c> create mode 100644 Entrega3/Actividad ubuntu github clase 15.abw</c></p>
+<p style="Normal" xid="208" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git push origin main</c></p>
+<p style="Normal" xid="209" props="text-align:left; dom-dir:ltr"><c>Username for 'https://github.com': AdrianUY</c></p>
+<p style="Normal" xid="210" props="text-align:left; dom-dir:ltr"><c>Password for 'https://AdrianUY@github.com': </c></p>
+<p style="Normal" xid="211" props="text-align:left; dom-dir:ltr"><c>Counting objects: 4, done.</c></p>
+<p style="Normal" xid="212" props="text-align:left; dom-dir:ltr"><c>Compressing objects: 100% (4/4), done.</c></p>
+<p style="Normal" xid="213" props="text-align:left; dom-dir:ltr"><c>Writing objects: 100% (4/4), 2.18 KiB | 0 bytes/s, done.</c></p>
+<p style="Normal" xid="214" props="text-align:left; dom-dir:ltr"><c>Total 4 (delta 1), reused 0 (delta 0)</c></p>
+<p style="Normal" xid="215" props="text-align:left; dom-dir:ltr"><c>remote: Resolving deltas: 100% (1/1), completed with 1 local object.</c></p>
+<p style="Normal" xid="216" props="text-align:left; dom-dir:ltr"><c>To https://github.com/DigitalHouse-II/Mochila-Camada14.git</c></p>
+<p style="Normal" xid="217" props="text-align:left; dom-dir:ltr"><c>   92e973b..c86709b  main -&gt; main</c></p>
+<p style="Normal" xid="218" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ git status</c></p>
+<p style="Normal" xid="219" props="text-align:left; dom-dir:ltr"><c>En la rama main</c></p>
+<p style="Normal" xid="220" props="text-align:left; dom-dir:ltr"><c>Su rama está actualizada con «origin/main».</c></p>
+<p style="Normal" xid="221" props="text-align:left; dom-dir:ltr"><c>nothing to commit, working directory clean</c></p>
+<p style="Normal" xid="222" props="text-align:left; dom-dir:ltr"><c>usuario@ubuntu-intro:~/Mochila-Camada14$ </c></p>
+<p style="Normal" xid="223" props="text-align:left; dom-dir:ltr"><c></c></p>
+</section>
+</abiword>
