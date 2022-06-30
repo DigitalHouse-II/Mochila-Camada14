@@ -1,0 +1,14 @@
+¿Las ip públicas son las mismas? No ¿por qué? Porque nos conectamos a traves de un VPN.
+
+Sin utilizar la VPN puedes ver el siguiente video? No
+
+ Ahora activala e intenta verlo, ¿que es lo que sucedió? Ahora se puede ver. ¿Por qué? Por el cambio de localizacion que conlleva la conexion mediante VPN.
+
+
+ Utilizando Tor ¿pudimos localizar la IP ?  Si, es de un pais diferente.
+
+ ¿Las velocidades en los test son diferentes? Si ¿Por qué crees que sucede esto? Por
+
+¿Que significa el valor del ping? La latencia entre el cliente y el servidor.
+
+El valor del ping, ¿varia entre las diferentes opciones? Si ¿Por qué? Por el lugar en donde estan localizados los VPNS
