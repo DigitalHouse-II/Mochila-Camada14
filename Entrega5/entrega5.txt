@@ -1,0 +1,44 @@
+Direccion IP sin VPN: 167.56.131.150
+Opera IP VPN activado en direccion optima: 77.111.246.40
+Tor IP red activada: 5.255.103.190
+
+- ¿Las ip públicas son las mismas? ¿por qué?
+
+No, ya que el VPN te manda a diferentes localizacion repartidas por el mundo lo que generan diferenter IP.
+
+Video: El video no se encuentra disponible en mi pais, por lo que con mi direccion ip comun no puedo ingresar, al cambiarlo al de otro pais con un vpn detecta que estoy en otro pais con el que si puedo ingresar al video.
+
+- Utilizando Tor ¿pudimos localizar la IP ?
+Si, pero con localizacion anonima
+
+Sin VPN              
+DESCARGA Mbps
+166.65
+SUBIDA Mbps
+29.00
+Ping ms  34
+
+OPERA
+CON VPN
+DOWNLOAD Mbps
+1.27
+UPLOAD Mbps
+9.10
+Ping ms  315
+
+TOP
+RED ACTIVADA
+Download Mbps
+1.73
+Upload Mbps
+1.91
+Ping ms 650 
+
+- ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Son diferentes ya que mientras mas lejos esten los servidores de la conexion vpn de nuestra localizacion original mas les cuesta enviar y recibir datos.
+
+- ¿Que significa el valor del ping?
+El ping, la unidad de medida. A la hora de medir esa latencia utilizamos el ping, que se mide en milisegundos, el tiempo que tarda en realizar la comunicación tu conexión local con un equipo remoto en la red IP.
+
+- El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+El tiempo que tarda en realizar la comunicación tu conexión local con un equipo remoto en la red IP, mientras mas lejana se encuentre la red IP mas tardara en realizar la comunicacion.
