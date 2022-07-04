@@ -1,0 +1,75 @@
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH
+$ cd Intro a la info
+bash: cd: too many arguments
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH
+$ cd "Intro a la info"
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info
+$ git clone https://github.com/DigitalHouse-II/Mochila-Camada14.git
+Cloning into 'Mochila-Camada14'...
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 8 (delta 1), reused 8 (delta 1), pack-reused 0
+Receiving objects: 100% (8/8), done.
+Resolving deltas: 100% (1/1), done.
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info
+$ cd Mochila-Camada14
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14 (main)
+$ git branch Caputo_Gonzalo
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14 (main)
+$ cd Caputo_Gonzalo
+bash: cd: Caputo_Gonzalo: No such file or directory
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14 (main)
+$ git checkout Caputo_Gonzalo
+Switched to branch 'Caputo_Gonzalo'
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14 (Caputo_Gonzalo)
+$ cd git-Github
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github (Caputo_Gonzalo)
+$ mkdir Git_y_Git_Hub_Caputo_Gonzalo
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github (Caputo_Gonzalo)
+$ touch preguntas.txt
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github (Caputo_Gonzalo)
+$ cd Git_y_Git_Hub_Caputo_Gonzalo
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github/Git_y_Git_Hub_Caputo_Gonzalo (Caputo_Gonzalo)
+$ touch preguntas.txt
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github/Git_y_Git_Hub_Caputo_Gonzalo (Caputo_Gonzalo)
+$ git add .
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github/Git_y_Git_Hub_Caputo_Gonzalo (Caputo_Gonzalo)
+$ git commit -m "Ingrese respuestas"
+[Caputo_Gonzalo 16b2abe] Ingrese respuestas
+ 1 file changed, 16 insertions(+)
+ create mode 100644 Git-Github/Git_y_Git_Hub_Caputo_Gonzalo/preguntas.txt
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github/Git_y_Git_Hub_Caputo_Gonzalo (Caputo_Gonzalo)
+$ git push origin Caputo_Gonzalo
+info: please complete authentication in your browser...
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 1.26 KiB | 647.00 KiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'Caputo_Gonzalo' on GitHub by visiting:
+remote:      https://github.com/DigitalHouse-II/Mochila-Camada14/pull/new/Caputo_Gonzalo
+remote:
+To https://github.com/DigitalHouse-II/Mochila-Camada14.git
+ * [new branch]      Caputo_Gonzalo -> Caputo_Gonzalo
+
+Gonzalo@DESKTOP-HMMIB8S MINGW64 ~/Desktop/DH/Intro a la info/Mochila-Camada14/git-Github/Git_y_Git_Hub_Caputo_Gonzalo (Caputo_Gonzalo)
+$
