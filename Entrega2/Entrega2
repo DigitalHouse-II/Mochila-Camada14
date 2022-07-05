@@ -1,0 +1,55 @@
+Que es un usuario root en linux?
+
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema
+
+Por que ubuntu no me deja establecer la contrase;a durante la instalacion?
+
+a primera cuenta de usuario que creó en su sistema durante la instalación
+tendrá, de forma predeterminada, acceso a sudo. Puede restringir y permitir el acceso
+a sudo a los usuarios con la aplicación Usuarios y grupos (vea “Usuarios y Grupos”
+para más información).
+Cuando ejecuta una aplicación que requiere privilegios de administrador, sudo le
+pedirá que escriba su contraseña de usuario normal. Esto asegura que aplicaciones
+1
+incontroladas no puedan dañar su sistema, y sirve como recordatorio de que está a
+punto de realizar acciones administrativas que requieren que tenga cuidado.
+Para usar sudo en la línea de comandos, simplemente escriba "sudo" antes del
+comando que desea ejecutar. Sudo le pedirá su contraseña.
+Sudo recordará su contraseña durante un periodo de tiempo (predeterminado a 15
+minutos). Esta característica se diseñó para permitir a los usuarios realizar múltiples
+tareas administrativas sin tener que escribir su ccontraseña cada vez
+
+Cuales son los procesos tipicos de linux? Como identificarlos?
+
+
+Concepto de proceso
+* Definición informal: un proceso es un programa en ejecución Un programa
+ejecutable es un conjunto de instrucciones y datos almacenados en un fichero.
+Cuando lo que tiene ese programa se carga en la memoria y se pone en ejecución, se
+convierte en un proceso.
+* Definición técnica: un proceso es una entidad formada por los siguientes
+elementos principales: · Una imagen binaria de un programa, cargada total o
+parcialmente en la memoria física. La imagen binaria está formada por las
+instrucciones y datos del programa. · Un área de memoria para almacenar datos
+temporales, conocida como pila. La imagen binaria y la pila son el programa en si
+mismo, pero para que el SO pueda controlar el programa hacen falta una serie de
+estructuras de datos.
+Las estructuras fundamentales son: · La tabla de páginas para traducir las
+direcciones virtuales generadas por el proceso en las direcciones físicas en la que se
+encuentra almacenado. · Una estructura de control, conocida como PCB, para que el
+sistema operativo pueda controlar su ejecución
+
+
+Establecer una contraseña para el usuario root.
+Para crearla, ejecutamos:
+sudo passwd root
+Escribimos la contraseña.
+Guardamos y listo.
+También podemos acceder de forma permanente como root en la terminal (sin la
+necesidad de escribir sudo de forma continua) ejecutando cualquiera de los
+siguientes comandos:
+sudo -i
+sudo su
+sudo su -
+sudo -s
+
