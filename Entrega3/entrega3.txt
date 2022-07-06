@@ -1,0 +1,17 @@
+1- por que un lenguaje de programacion solo puede utilizarse en algunos 
+sistemas operativos y en otros no _ _
+
+
+2- que tipo de maquina virtual es virtualbox 2)- VirtualBox es un 
+software para virtualización, tambien conocido como hipervisor de tipo 
+2, que se utilizar para virtualizar sistemas operativos dentro de 
+nuestro ordenador existente, creando lo que se conoce como máquina 
+virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en que 
+necesita un sistema operativo para funcionar, a diferencia de los de 
+tipo 1 en los que el propio hipervisor funciona sobre el hardware, o 
+máquina host.$quina host.
+
+
+3. si tengo mas de una maquina virtual instalada y una se rompe, esto 
+afeta a los demas_ por que_
+no, cada MV es independiente 
