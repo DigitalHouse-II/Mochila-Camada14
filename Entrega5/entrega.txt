@@ -1,0 +1,20 @@
+velocidad sin vpn:
+ping: 1
+descarga: 532.1
+subida:42.6
+
+velocidad con vpn:
+ping: 287
+descarga: 1.4
+subida: 9.8
+
+tor:
+ping: 500
+descarga: 11.9
+subida: 8.4
+
+1) Si son diferente, porque hay pasos extras por medio que hacen que tu "IP" este en otra parte del mundo, haciendo asi que el tiempo necesario para que te llegen los datos aumente.
+
+2) Ping es una utilidad de diagnóstico en redes de computadoras que comprueba el estado de la comunicación del anfitrión local con uno o varios equipos remotos de una red que ejecuten IP.​​
+
+3) Si varia, porque el Ping se ve afectado principalmente por la distancia que debe recorrer su tráfico de Internet, específicamente la ruta que debe tomar para llegar allí. Una VPN aumenta su ping porque agrega pasos adicionales para que su tráfico de Internet llegue a su destino, lo que lo hace más largo y complicado
