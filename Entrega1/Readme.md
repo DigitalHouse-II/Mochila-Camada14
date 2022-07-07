@@ -1,1 +1,1 @@
-Mochila Introducción a la Informática
+Entrega del armado de la computadora

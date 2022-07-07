@@ -1,1 +1,1 @@
-Mochila Introducción a la Informática
+Segunda entrega de la mochila
