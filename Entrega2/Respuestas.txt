@@ -1,0 +1,13 @@
+¿Que es un usuario root en Linux?
+Un usuario roos es aquel que tiene el nivel mas alto de accesos en el sistema,
+se podria decir que este equivale al usuario administrador en Windows.
+
+¿Por que ubuntu no me deja estableces la contraseña durante la instalacion?
+El usuario root tiene una contraseña por defecto pero esta no es la que se
+utiliza para acceder al usuario, en cambio es la utilizada por cualquier
+usuario para poder acceder a los permisos que el root user nos da.
+
+¿Cuales son los procesos tipicos de Linux?¿Como identificarlos?
+Los procesos de Linux son instrucciones que vienen de un programa que esta
+siendo ejecutado.
+Al escribir "ps" en la consola podemos identificarlos
