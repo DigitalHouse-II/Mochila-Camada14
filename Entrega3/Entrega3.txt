@@ -1,0 +1,19 @@
+¿Por qué un lenguaje de programacion sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+- Porque un lenguaje de programación compila a lenguaje 
+ensamblador el cual es ejecutado por el sistema 
+operativo, este lenguaje ensamblador depende de 2 cosas, 
+de la arquitectura del procesador 
+y la interpretación que le de el sistema operativo
+
+¿Que tipo de maquina virtual es virtualVox?
+
+-Es del tipo VMs de sistema, ya que ofrece una separación 
+completa del sistema operativo y las aplicaciones de la computadora física
+
+Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a las
+demas? ¿por qué?
+
+-No, porque la maquina virtual es un software que puede hacerse pasar por otro dispositivo
+(En este caso una pc), por lo tanto serian PCs totalmente separadas y no se afectarian entre si.
