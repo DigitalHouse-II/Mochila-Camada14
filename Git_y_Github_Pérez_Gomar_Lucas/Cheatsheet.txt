@@ -1,0 +1,49 @@
+1 - 
+
+Clonar un repositorio remoto
+$ git clone https://github.com/DigitalHouse-II/Mochila-Camada14.git
+
+2 -
+
+Inicializar un repositorio local
+$ git init
+
+3 -
+
+Mostrar el estado del repositorio
+$ git status
+
+4 -
+
+Añadir cambios al repositorio, dejándolos listos para la inclusión en el próximo commit
+$ git add
+
+5 -
+
+Confirma los cambios realizados en el repositorio y les añade un nombre para dichos cambios realizados
+$ git commit -m "(nombre del commit)"
+
+6 - 
+
+Descarga los cambios hechos en el repositorio remoto para que el repositorio local se mantenga actualizado
+$ git pull
+
+7 - 
+
+Sube los cambios realizados en el repositorio local al repositorio remoto
+$ git push
+
+8 -
+
+Crea una rama dentro del repositorio
+$ git branch (nombre de la rama)
+
+9 -
+
+Elimina una rama del repositorio
+$ git branch -d (nombre de la rama)
+
+10 - 
+
+Permite navegar entre las diferentes ramas de un repositorio
+$ git checkout (nombre de la rama)
