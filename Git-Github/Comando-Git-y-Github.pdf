@@ -1,0 +1,46 @@
+                            COMANDOS GIT Y GITHUB
+
+
+                                       CREANDO REPOSITORIO
+			
+Crear repositorio				git init
+Agregando identidad				git config user.name "nombreUsuario"
+Agregando e-mail				git config user.email "correo"
+
+
+Agregar todo el contenido			git add . (git add -A)
+Commitear para subir				git commit -m "Mensaje de observacion"
+Agregar repositorio a GitHub			git remote add origin urlRepositorio
+Clonar repositorio (única vez)			git clone urlRepositorio
+Subir al repositorio				git push origin main
+Actualizar repositorio				git pull origin main
+Comprobar sincronización			git remote -v
+
+
+Estado del repositorio				git status - git status -s
+Agregar un archivo				git add nombreArchivo
+Eliminar archivo				git rm nombreArchivo
+Histórico					git log
+Histórico resumido				git log --oneline
+Mirar todas las configuraciones			git config -l
+Para sacarlo del estado anterior		git reset nombreArchivo
+Configurar editor texto mensajes		git config --global core.editor "code --wait"
+Volver a versión anterior			git checkout idCommit
+Volver a la rama main				git checkout main
+Eliminar ultimo commit				git reset head~1
+Mostrar todos los archivos			ls -la
+Eliminar repositorio .git				rm -fr .git
+
+
+
+
+                                                 NUEVA RAMA
+
+
+Enumerar ramas del repositorio		git branch
+Crear nueva rama				git branch nombreRama
+Eliminar rama - Sin fusionar no permite		git branch -d nombreRama
+Fuerza la eliminación de la rama		git branch -D nombreRama
+Moverse entre ramas				git checkout nombreRama
+Guardar cambio y subirlo al repositorio		git push origin nombreRama
+Actualizar cambios de la rama			git pull origin nombreRama
