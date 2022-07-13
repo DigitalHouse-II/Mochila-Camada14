@@ -1,0 +1,15 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Cuando el lenguaje es compilado a assembly, los diferentes sistemas operativos pueden interpretar de diferente manera las acciones que assembly marque, haciendo que lo que funciona para un sistema operativo no funcione para otro.
+------------------------------------------------------
+¿Qué tipo de máquina virtual soporta virtualBox?
+Soporta tanto máquina cliente como servidores. 
+Soporta sistemas operativos: Windows, Linux, Solaris, FreeBSD, OpenBSD, MacOS
+------------------------------------------------------
+¿Qué función cumple el hypervisor en la virtualización?
+Un hypervisor es un software que controla múltiples virtual machines, dando la posibilidad a correr más de una a la vez, cada una con (si se quisiera) diferentes OS e independiente una de la otra.
+------------------------------------------------------
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Dependiendo de la máquina virtual que se rompa, si afecta a las demás o no.
+Si la vm que se rompe es un servidor, entonces las demás vms se verán afectadas, no dejarán de funcionar pero perderán ciertas funcionalidades hasta que se pueda modificar la estructura de red.
+Si la vm que se rompe es un hypervisor, no se podrá acceder a las vm que se encuentran dentro del hypervisor.
+Si la vm que se rompe es una pc cliente, entonces no afectará a las demás vms.
