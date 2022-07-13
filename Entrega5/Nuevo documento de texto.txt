@@ -1,0 +1,33 @@
+ 
+Tor 185.220.100.243
+ 
+Opera 181.31.82.13
+ 
+ 
+
+¿Las ip públicas son las mismas? ¿por qué?
+Son distintas, por el vpn.
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin utilizarla no podemos verla, pero activándola si. Podemos verlo porque el video se puede ver desde la zona en la que está ubicado el proveedor de la VPN, pero no desde Argentina.
+Utilizando Tor ¿pudimos localizar la IP ? 
+No.
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.  
+
+
+
+
+
+
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+ 
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+ 
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si, por la ubicación del servidor.
+
+¿Que significa el valor del ping?
+Para medir la latencia se utiliza el ping, que se mide en milisegundos (o ms) el tiempo que tardan en comunicarse tu conexión local con un equipo remoto en la red IP.
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Por el tiempo que tardan en comunicarse tu conexión local con un equipo remoto en la red IP.
