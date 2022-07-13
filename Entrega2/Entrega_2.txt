@@ -1,0 +1,16 @@
+Entrega2
+¿Qué es un usuario root en Linux?
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema. Los usuarios normales no
+tienen este acceso por razones de seguridad.
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Porque se debe utilizar el mecanismo sudo para establecerla.
+¿Cuáles son los procesos típicos de Linux? ¿Cómo identificarlos?
+Un proceso en linux es una serie de instrucciones que vienen de un programa que está en ejecución, existen
+diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux
+cuanto CPU utilizar y el tiempo máximo de ejecución del proceso.
+Cuando Linux se ejecuta, el kernel de Linux tiene la primera prioridad de ejecución, conocida como PID 1 (Process
+ID). En versiones anteriores de Linux, este proceso era conocido como init que está basado en en la forma en la que
+sistemas antiguos de Unix arrancaban el sistema.
+Las versiones modernas de Linux utilizan systemd que intenta coordinar la manera en que los procesos son
+manejados. Como comentamos PID1 es el proceso padre, todos los demás procesos ejecutados a partir de este son
+procesos hijos.
