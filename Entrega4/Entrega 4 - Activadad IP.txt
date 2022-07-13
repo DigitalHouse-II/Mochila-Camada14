@@ -1,0 +1,20 @@
+Averiguar:
+-Dirección IP Pública
+-Dirección IP Privada y su Máscara de subred - 192.168.1.4 / 255.255.255.0
+-Dirección MAC - 2C-60-0C-C9-E0-48
+
+Dadas nuestras direcciones IP y las máscaras de red,
+¿La IP pública y privada de qué clase son? ¿Clase C?
+
+¿Qué información puedo obtener de la dirección MAC? 
+Acceder a https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+
+Dirección IP Pública: 167.60.228.172
+Dirección IP Privada: 192.168.56.1
+Máscara de subred: 255.255.255.0
+Dirección MAC: 0C-54-15-F6-A7-6A
+
+La IP Pública es clase B, mientras que la IP Privada es clase C.
+
+Información obtenida de la dirección MAC en el link consultado: Intel Corporate
